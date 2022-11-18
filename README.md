@@ -4,22 +4,21 @@
  	<body bgcolor="#E6E6FA">
 
  	<center>
- 	<h1><font size="7";>Capitulo III</font></h1>
- 	<h2><font size="6";>Complementacion</font></h2> </center>
+ 	<h1>Capitulo III</h1>
+ 	<h2>Complementacion</h2> </center>
 
  	<h3><font size="5">3.1 Otras formas de Biorremediación.</font></h3>
- 	<p><font size="5">En otras formas de biorremediación hay que extraer el suelo contaminado y después limpiarlo.</p>
- 		
- 	<p><font size="4.5"><img src= "https://th.bing.com/th/id/R.4a9d9701bbbcb4f882e3ed2fe12bf0e4?rik=69jHyQVcofBwhQ&riu=http%3a%2f%2flearnbioremediation.weebly.com%2fuploads%2f9%2f0%2f6%2f9%2f9069787%2f5516448.gif%3f508&ehk=K5PuNoy34YCUpJRlzDPXrT7nn4Abn526qn4XNoJ95co%3d&risl=&pid=ImgRaw&r=0"style="float: right; width: 290px;" "margin: 20px 20px 20px 20px">
+ 	<p><font size="5">En otras formas de biorremediación hay que extraer el suelo contaminado y después limpiarlo.
+  
  		a) Biopilas La técnica de biopilas consiste en formar pilas con el suelo contaminado y estimular la actividad microbiana, agregando aire, agua y fertilizantes que contengan nitrógeno y fósforo, en un ambiente con temperaturas mayores a 15 °C. El aire se introduce mediante un compresor mecánico.</font></p>
  		<p><font size="4.5">
- 		Las biopilas se construyen en capas de 30 cm de altura y después de cada capa se coloca la tubería por la cual se va a introducir el aire, para que los microorganismos tengan oxígeno suficiente. (Figura 1.3)</font></p>
+ 		Las biopilas se construyen en capas de 30 cm de altura y después de cada capa se coloca la tubería por la cual se va a introducir el aire, para que los microorganismos tengan oxígeno suficiente. </font></p>
  
- 	<p><font size="4.5"><img src="https://planeteando.org/wp-content/uploads/2018/11/cuidado2.jpg"style="float: left; width: 230px;">
+ 	
  		b) Biolabranza La técnica de biolabranza consiste en airear el suelo
  		almacenado en montones y ahí mismo agregar agua y fertilizantes.
  	    En este caso, la aireación se realiza con equipos mecánicos como
- 	    tractores o retroexcavadoras. . (Figura 1.4)</font></p>
+ 	    tractores o retroexcavadoras. . </font></p>
  	    &nbsp;
  	    &nbsp;
  	    &nbsp;
@@ -68,25 +67,14 @@ resistentes que pueden incluso inhibir la biorremediación.
 <li>Requiere investigación multidisciplinaria para determinar y optimizar las 
 condiciones de biorremediación. 
 <li>Su optimización requiere información sustancial acerca del lugar 
-contaminado y las características del vertido.</ul>
+contaminado y las características del vertido.
 &nbsp;
 <p>La principal ventaja de estos métodos de remediación es que requieren poco tiempo 
 para limpiar el sitio contaminado, su principal desventaja es que no garantizan que 
 Equipo 3 19
 el sitio contaminado pueda ser usado para agricultura, y la generación de residuos 
 que deben ser dispuestos en sitios específicos, lo que incrementa su costo </p></font>
-<font size="4.5"><img src= "https://th.bing.com/th/id/OIP.jlpyI5zoMuAC18Jn9r8tUwHaFj?w=245&h=184&c=7&r=0&o=5&pid=1.7"style="float: right; width: 350px;" "margin: 20px 20px 20px 20px">
-<img src="https://th.bing.com/th/id/OIP.AkJS1WWccqXOMUDu_eU_nwHaFj?w=260&h=195&c=7&r=0&o=5&pid=1.7"style="float: left; width: 350px;">
-
-
-
-
-
-
-
- 		
-
- 	
+	
 
  </head>
  
