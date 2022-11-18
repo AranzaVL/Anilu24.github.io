@@ -73,10 +73,4 @@ contaminado y las características del vertido.
 para limpiar el sitio contaminado, su principal desventaja es que no garantizan que 
 Equipo 3 19
 el sitio contaminado pueda ser usado para agricultura, y la generación de residuos 
-que deben ser dispuestos en sitios específicos, lo que incrementa su costo </p></font>
-	
-
- </head>
- 
- </body>
- </html>
+que deben ser dispuestos en sitios específicos, lo que incrementa su costo </p>
